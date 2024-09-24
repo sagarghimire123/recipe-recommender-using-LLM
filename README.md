@@ -3,10 +3,11 @@ This project creates a recipe recommender using a large language model (LLM) fro
 
 Project Overview
 Features
-User Input: The system asks the user to input their preferred recipe.
-Suggestions: It generates ten food suggestions based on the user's input.
-Selection: The user can choose one suggestion from the list.
-Detailed Recipe: Once a selection is made, the system displays the complete details of the chosen recipe.
+        1.User Input: The system asks the user to input their preferred recipe.
+        2.Suggestions: It generates ten food suggestions based on the user's input.
+        3.Selection: The user can choose one suggestion from the list.
+        4.Detailed Recipe: Once a selection is made, the system displays the complete 
+        details of the chosen recipe.
 Workflow
 User enters a recipe.
 The system generates ten related food suggestions.
